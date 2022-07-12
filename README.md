@@ -1,4 +1,4 @@
-👋 Hi, I’m Jeffrey Wang
+👋🏻 Hi, I’m Jeffrey Wang
 
 📍 Taipei, Taiwan
 
