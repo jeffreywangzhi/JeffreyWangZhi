@@ -2,9 +2,9 @@
 
 📍 Taipei, Taiwan
 
-🧑🏻‍💻 Software Engineer Intern @Nomura (2021.8-2022.7)
+🧑🏻‍💻 Software Engineer Intern @Nomura (2021.8- 2022.7)
 
-🧑🏻‍💻 Backend Software Engineer Intern @Aemass (2022.7-present)
+🧑🏻‍💻 Backend Software Engineer Intern @Aemass (2022.7- Present)
 
 🖇 Linkedin https://www.linkedin.com/in/jeffrey-wang-854432219/
 
