@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @JeffreyWangz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Jeffrey Wang
 
-<!---
-JeffreyWangz/JeffreyWangz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Taipei, Taiwan
+
+🧑🏻‍💻 Software Engineer Intern @Nomura (2021.8-2022.7)
+
+🧑🏻‍💻 Backend Software Engineer Intern @Aemass (2022.7-present)
+
+🖇 Linkedin https://www.linkedin.com/in/jeffrey-wang-854432219/
+
+📬 Jeffrey.wanggg@gmail.com
