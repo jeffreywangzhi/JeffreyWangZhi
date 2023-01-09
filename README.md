@@ -1,12 +1,8 @@
-👋🏻 Hi, I’m Jeffrey Wang.
+<h1 align="center">🧑🏻‍💻 This is Jeffrey Wang speaking</h1>
+<h4 align="center">〽️ Backend software engineer @Aemass,Inc.</h4>
+<h4 align="center">🌩️ AWS Educate Cloud Ambassador, Technical Support @Amazon Web Services (AWS)</h4>
 
 📍 Taipei, Taiwan
-
-🧑🏻‍💻 Backend Software Engineer Intern @Aemass (2022.7- Present)
-
-🧑🏻‍💻 AWS Educate Cloud Ambassador, Technical Support @Amazon Web Services (AWS) (2022.8- Present)
-
-🧑🏻‍💻 Software Engineer Intern @Nomura (2021.8- 2022.7)
 
 🖇 Linkedin https://www.linkedin.com/in/jeffrey-wang-854432219/
 
