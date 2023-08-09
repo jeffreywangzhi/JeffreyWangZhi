@@ -2,16 +2,9 @@
 
 **〽️ Software Engineer @Aemass, Inc.**</br>
 **🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**
-<!-- <h5 align="left">Ex- SWE @Nomura</h5> -->
-
-<!-- 📍 Taipei, Taiwan
-
-🖇 Linkedin https://www.linkedin.com/in/jeffreywanggg
-
-📬 Email Jeffrey.wanggg@gmail.com -->
 
 <div align=left> 
-  <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywanggg&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywanggg&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
 </div>
 
 <div style="display:flex;justify-content:left;">
