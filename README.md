@@ -16,7 +16,7 @@
 <h3>Social Media:</h3>
 
 <p> <a href="https://www.instagram.com/jeffreywangv1.0/" target="_blank"> <img src="http://store-images.s-microsoft.com/image/apps.31997.13510798887167234.6cd52261-a276-49cf-9b6b-9ef8491fb799.30e70ce4-33c5-43d6-9af1-491fe4679377" alt="ins" width="40" height="40"/></a><a href="https://www.linkedin.com/in/jeffrey-wang-854432219/" target="_blank"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="linkedin" width="40" height="40"/></a><a href="https://jeffreywanggg.medium.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium" width="40" height="40"/></a> <a href="
-linktr.ee/jeffreywanggg"> <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="linktree" width="40" height="40"/></a> </p>
+https://linktr.ee/jeffreywanggg"> <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="linktree" width="40" height="40"/></a> </p>
 
 <h3>Languages and Tools:</h3>
 
