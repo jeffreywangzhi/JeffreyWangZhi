@@ -1,13 +1,23 @@
-<h1 align="left">🧑🏻‍💻 This is Jeffrey Wang speaking</h1>
-<h3 align="left">〽️ Software Engineer @Aemass, Inc.</h3>
-<h3 align="left">🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)</h3>
-<h5 align="left">Ex- SWE @Nomura</h5>
+<h2 align="left">🧑🏻‍💻 This is Jeffrey Wang speaking</h2>
 
-📍 Taipei, Taiwan
+**〽️ Software Engineer @Aemass, Inc.**</br>
+**🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**
+<!-- <h5 align="left">Ex- SWE @Nomura</h5> -->
+
+<!-- 📍 Taipei, Taiwan
 
 🖇 Linkedin https://www.linkedin.com/in/jeffreywanggg
 
-📬 Email Jeffrey.wanggg@gmail.com
+📬 Email Jeffrey.wanggg@gmail.com -->
+
+<div align=left> 
+  <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywanggg&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</div>
+
+<div style="display:flex;justify-content:left;">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreywanggg&theme=merko&layout=compact" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jeffreywanggg&theme=merko&show_icons=true" />
+</div>
 
 <h3>Certifications:</h3>
 
