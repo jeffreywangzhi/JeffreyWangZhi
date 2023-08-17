@@ -8,8 +8,8 @@
 </div>
 
 <div style="display:flex;justify-content:left;">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreywanggg&theme=merko&layout=compact" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jeffreywanggg&theme=merko&show_icons=true" />
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffreywanggg&theme=merko&layout=compact" />
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffreywanggg&theme=merko&show_icons=true" />
 </div>
 
 <h3>Certifications:</h3>
