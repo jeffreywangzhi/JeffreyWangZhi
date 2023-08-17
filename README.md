@@ -39,3 +39,5 @@
 [![My Skills](https://skillicons.dev/icons?i=graphql,aws,azure,git,docker,postman,net,linux)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)
+
+![](https://komarev.com/ghpvc/?username=Jeffreywanggg&color=green)
