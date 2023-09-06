@@ -1,5 +1,7 @@
 <h2 align="left">🧑🏻‍💻 This is Jeffrey Wang speaking</h2>
 
+![](https://komarev.com/ghpvc/?username=Jeffreywanggg&color=green) <a href="https://wakatime.com/@55ee414b-8417-43e7-b4ad-53abd3e2836f"><img src="https://wakatime.com/badge/user/55ee414b-8417-43e7-b4ad-53abd3e2836f.svg" alt="Total time coded since Sep 5 2023" /></a>
+
 **〽️ Software Engineer @Aemass, Inc.**</br>
 **🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**
 
@@ -40,4 +42,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)
 
-![](https://komarev.com/ghpvc/?username=Jeffreywanggg&color=green)
