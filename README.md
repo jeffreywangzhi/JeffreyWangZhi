@@ -41,5 +41,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js,nodejs,python,php,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,aws,azure,git,docker,postman,net,linux)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)
