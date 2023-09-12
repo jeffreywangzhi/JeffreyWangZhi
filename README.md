@@ -22,16 +22,16 @@
 <h3>Social Media:</h3>
 
 <p align="left">
-  <a href="https://www.instagram.com/jeffreywangv1.0/">
+  <a href="https://www.instagram.com/jeffreywangv1.0/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jeffrey-wang-854432219/">
+  <a href="https://www.linkedin.com/in/jeffrey-wang-854432219/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://jeffreywanggg.medium.com/">
+  <a href="https://jeffreywanggg.medium.com/" style="margin-right: 3pt">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://linktr.ee/jeffreywanggg">
+  <a href="https://linktr.ee/jeffreywanggg" >
   <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" width="50" height="50"/>
   </a>
 </p>
