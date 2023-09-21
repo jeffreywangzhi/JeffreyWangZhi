@@ -1,4 +1,11 @@
-<h2 align="left">🧑🏻‍💻&nbsp;&nbsp;This is Jeffrey Wang speaking</h2>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 auto; font-size: 25px;">🧑🏻‍💻</div>
+  <div style="flex: 1; padding-left: 10px;">
+    <h2>This is Jeffrey Wang speaking</h2>
+  </div>
+</div>
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=Jeffreywanggg&color=green)
