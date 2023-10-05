@@ -1,18 +1,18 @@
 <h2 align="left">🧑🏻‍💻 This is Jeffrey Wang speaking</h2>
 
-![](https://komarev.com/ghpvc/?username=Jeffreywanggg&color=green)
+![](https://komarev.com/ghpvc/?username=Jeffreywangzhi&color=green)
 [![wakatime](https://wakatime.com/badge/user/55ee414b-8417-43e7-b4ad-53abd3e2836f.svg)](https://wakatime.com/@55ee414b-8417-43e7-b4ad-53abd3e2836f)
 
 **〽️ Software Engineer @Aemass, Inc.**</br>
 **🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**</br>
 
 <div align=left> 
-  <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywanggg&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
+  <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywangzhi&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
 </div>
 
 <div style="display:flex;justify-content:left;">
-  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffreywanggg&theme=merko&show_icons=true" />
-  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffreywanggg&theme=merko&layout=compact" />
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffreywangzhi&theme=merko&show_icons=true" />
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffreywangzhi&theme=merko&layout=compact" />
 </div>
 
 <h3>Certifications:</h3>
@@ -28,10 +28,10 @@
   <a href="https://www.linkedin.com/in/jeffrey-wang-854432219/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://jeffreywanggg.medium.com/" style="margin-right: 3pt">
+  <a href="https://jeffreywangzhi.medium.com/" style="margin-right: 3pt">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://linktr.ee/jeffreywanggg" >
+  <a href="https://linktr.ee/jeffreywangzhi" >
   <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" width="50" height="50"/>
   </a>
 </p>
@@ -41,4 +41,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js,nodejs,python,php,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,aws,azure,git,docker,postman,net,linux)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=JeffreyWanggg&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWangzhi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=JeffreyWangzhi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)
