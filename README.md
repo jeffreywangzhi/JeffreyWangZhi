@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Jeffreywangzhi&color=green)
 [![wakatime](https://wakatime.com/badge/user/55ee414b-8417-43e7-b4ad-53abd3e2836f.svg)](https://wakatime.com/@55ee414b-8417-43e7-b4ad-53abd3e2836f)
 
-**〽️ Software Engineer @Aemass, Inc.**</br>
+**〽️ Software Engineer, Backend/Cloud @Aemass, Inc.**</br>
 **🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**</br>
 
 <div align=left> 
