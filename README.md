@@ -12,7 +12,7 @@
 
 <div style="display:flex;justify-content:left;">
   <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffreywangzhi&theme=merko&show_icons=true" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreywangzhi&theme=merko&layout=compact&hide=css,php&exclude_repo=blockchain-data-download" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreywangzhi&theme=merko&layout=compact&hide=css,php,hack&exclude_repo=blockchain-data-download" />
 </div>
 
 <h3>Certifications:</h3>
