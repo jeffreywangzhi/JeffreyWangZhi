@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/55ee414b-8417-43e7-b4ad-53abd3e2836f.svg)](https://wakatime.com/@55ee414b-8417-43e7-b4ad-53abd3e2836f)
 
 **〽️ Software Engineer, Backend/Cloud @Aemass, Inc.**</br>
-**🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services (AWS)**</br>
+**🌩️ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services**</br>
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywangzhi&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
