@@ -32,7 +32,7 @@
   <a href="https://jeffreywangzhi.medium.com/" style="margin-right: 3pt">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="50" height="50"/>
   </a>
-  <a href="https://linktr.ee/jeffreywangzhi" >
+  <a href="https://jeffreywangzhi.github.io/linktree/" >
   <img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" width="50" height="50"/>
   </a>
 </p>
