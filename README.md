@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/jeffreywangzhi/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jeffrey-wang-854432219/" style="margin-right: 3pt">
+  <a href="https://www.linkedin.com/in/jeffreywangzhi/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://jeffreywangzhi.medium.com/" style="margin-right: 3pt">
