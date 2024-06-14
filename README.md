@@ -42,4 +42,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js,nodejs,python,php,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,aws,azure,git,docker,postman,net,linux)](https://skillicons.dev)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jeffreywangzhi?theme=dark&font=Noto%20Sans%20Elbasan&ext=heatmap&width=500&height=200)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=JeffreyWangzhi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=JeffreyWangzhi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)
