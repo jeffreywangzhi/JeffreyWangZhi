@@ -23,9 +23,6 @@
 <h3>Social Media:</h3>
 
 <p align="left">
-  <a href="https://www.instagram.com/jeffreywangzhi/" style="margin-right: 3pt">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/jeffreywangzhi/" style="margin-right: 3pt">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
