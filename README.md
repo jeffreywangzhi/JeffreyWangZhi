@@ -5,7 +5,7 @@
 
 **🤖 Engineering @yAI**</br>
 **🗽 MSCS @New York University**</br>
-**🌩️ AWS Cloud Ambassador Lead, Technical Support @Amazon Web Services**</br>
+**🌩️ AWS Cloud Ambassador Lead @Amazon Web Services**</br>
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=jeffreywangzhi&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
